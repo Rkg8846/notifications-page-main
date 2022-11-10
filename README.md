@@ -1,4 +1,4 @@
-# Product preview card component main
+# Notification Page Main
 This is a solution to the Notification Page Main challenge on Frontend Mentor which have messenger chat design.
 
 # Users are able to:
